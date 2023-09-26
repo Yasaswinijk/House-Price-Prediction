@@ -10,9 +10,9 @@ The dataset used for this project is crucial. You can choose to use publicly ava
 
 Ensure that your dataset includes features such as:
 
-Number of bedrooms
-Square footage
-Number of bathrooms
-Location (latitude and longitude)
-Age of the house
-Any additional relevant features
+Number of bedrooms,
+Square footage,
+Number of bathrooms,
+Location (latitude and longitude),
+Age of the house,
+Any additional relevant features.
